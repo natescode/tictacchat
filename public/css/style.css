@@ -1,0 +1,22 @@
+body {
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	background-color: #c7ddef;
+}
+
+a {
+	color: #00B7FF;
+}
+
+.list {
+	border-radius: 1px;
+	background-color: lightgreen;
+	text-align: center;
+	vertical-align: middle;
+}
+li{
+	list-style-type: none;
+}
+canvas{
+	background-color:#ffffff;
+}

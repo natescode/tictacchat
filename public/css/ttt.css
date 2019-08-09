@@ -1,0 +1,14 @@
+body{
+	background-color: cornflowerblue;
+	margin:0px auto;
+	padding: 0px;
+}
+canvas{
+	margin: 0px auto;
+	padding: 0px;
+	box-sizing: border-box;
+	background-color: #fff;
+	width:900px;
+	height:900px;
+	border: 1px solid #000000;
+}
