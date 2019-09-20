@@ -1,2 +1,14 @@
 # Tic Tac Chat
-Tic Tac Toe game with live chat
+Multi-player Tic Tac Toe game with live chat
+
+### install dependencies and run
+
+`npm run go`
+
+### install dependencies
+
+`npm install`
+
+### run
+
+`npm start`
